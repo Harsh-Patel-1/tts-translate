@@ -65,6 +65,6 @@ A simple web application that provides text-to-speech (TTS) functionality along 
 
 ## Author
 
-## Harsh Patel
+Harsh Patel
 
 **Note:** Make sure to replace `your_api_key_here` with your actual Google Translate API key in the `.env` file.
